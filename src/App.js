@@ -5,11 +5,12 @@ import { Layout, Typography, Space } from 'antd';
 import { Navbar, Exchanges, Homepage, CryptoDetails, Cryptocurrencies, News, Login } from './components';
 import './App.css';
 
-const ProtectedRoute = ({ children }) => {
-  const token = localStorage.getItem('token');
-  if (!token) return <Navigate to="/login" />;
-  return children;
-};
+// Remove if not using:
+// const ProtectedRoute = ({ children }) => {
+//   const token = localStorage.getItem('token');
+//   if (!token) return <Navigate to="/login" />;
+//   return children;
+// };
 
 const App = () => {
   return (

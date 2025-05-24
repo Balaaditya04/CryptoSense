@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CryptoSense/static/css/main.5576a8e4.css",
+    "main.js": "/CryptoSense/static/js/main.ce017aee.js",
+    "index.html": "/CryptoSense/index.html",
+    "static/media/cryptosense-logo.svg": "/CryptoSense/static/media/cryptosense-logo.e3902a25eed5f266ff096d56b61f4d30.svg",
+    "main.5576a8e4.css.map": "/CryptoSense/static/css/main.5576a8e4.css.map",
+    "main.ce017aee.js.map": "/CryptoSense/static/js/main.ce017aee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5576a8e4.css",
+    "static/js/main.ce017aee.js"
+  ]
+}
